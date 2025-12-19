@@ -20,6 +20,22 @@ The source contains all the tools for the development of the game, but you need 
 **WEB version on Itch.io** - https://nvjob.itch.io/infinity-square-space-web
 
 -------------------------------------------------------------------
+## 🛠 How to Open and Run the Project
+
+This project is built using the **Unity game engine**.
+
+### Requirements
+- Unity Hub
+- Unity **2019.4 LTS or newer** (recommended)
+
+### Steps
+1. Clone or download this repository.
+2. Open **Unity Hub**.
+3. Click **Add** and select the project folder.
+4. Allow Unity to import all assets.
+5. Open the main scene from the `Assets/Scenes/` folder.
+6. Press **Play** to run the project in the Unity Editor.
+
 
 ### Prerequisites
 To work on the project, you will need a Unity version of at least 2019.1.8 or higher (64-bit).<br/>
